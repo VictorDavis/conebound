@@ -20,6 +20,8 @@ pip install conebound
 
 ## Tests
 
+![Bounding Cone Tests](https://github.com/VictorDavis/conebound/workflows/Bounding%20Cone%20Tests/badge.svg)
+
 - Covers acute, obtuse, reflex cases
 - Covers dimensions 2, 3, 4
 
